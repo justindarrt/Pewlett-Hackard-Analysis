@@ -7,6 +7,7 @@ A large portion of employees at PH are expected to retire soon. This project ana
 The goal of this project is to analyze multiple employee data sets for PH regarding retirees. 
 
 ## Analysis
+![Titles](https://user-images.githubusercontent.com/103381098/170738862-182884cf-d6fc-4e28-aa37-13c71d49cdd3.png)
 PH appears to be a great place to work based on two factors. First, many employees have spent their entire careers at PH. This is very rare in today’s workplace environment of job-hopping indicating PH treats their employees well. Second, many employees have held numerous roles. This shows the potential for one to grow their career. Two titles make up 2/3 of retirees, senior engineer and senior staff. This will help focus PH efforts to replace these departments. Luckily, only 2 managers  will need to be replaced.
 
 ## Results
